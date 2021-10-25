@@ -7,8 +7,8 @@ In class, you will generate hypotheses about various aspects of habitat structur
 This project involves group work (4 students per group) to write up the project. Field data collected by each group will be pooled to produce a class-wide data set for the analysis. Group project tasks include:
 
 1. Field data collection (on Oct 26th)
-2. Data management (entry, quality assurance, and meta-data creation; by Oct 26th)
-3. Data analysis & graphing 
+2. Data management (entry, quality assurance, and meta-data creation; by Oct 27th)
+3. Data analysis & graphing (upload by Oct 29th)
 
 What you will upload as a group in group-summary.md file includes:
 
