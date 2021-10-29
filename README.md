@@ -1,4 +1,4 @@
-# biodiv-sampling
+# Assignment Directions
 
 ### Assignment Goal
 
